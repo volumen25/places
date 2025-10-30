@@ -70,6 +70,18 @@
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/MtFuji1.jpg" class="lightbox" data-gallery="fuji" title="Mt. Fuji from our window"><img src="https://places.volumen.ca/posts/2025-10-15/images/MtFuji1.jpg" class="img-fluid figure-img" alt="Mt. Fuji from our window"></a></p>
+<figcaption>Mt. Fuji from our window</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/MtFuji2.jpg" class="lightbox" data-gallery="fuji" title="Mt. Fuji"><img src="https://places.volumen.ca/posts/2025-10-15/images/MtFuji2.jpg" class="img-fluid figure-img" alt="Mt. Fuji"></a></p>
+<figcaption>Mt. Fuji</figcaption>
+</figure>
+</div>
 
 
 </section>
