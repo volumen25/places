@@ -1,0 +1,76 @@
+---
+title: "Japan"
+date: "2025-10-15"
+date-modified: "2025-10-30"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2025"
+  - Japan
+  - Asia
+---
+
+## Brief Summary
+
+One of the most memorable trips, slow pace, revisiting our favorite places and discovering new ones we haven't before.
+
+### Yokohama
+
+-   Waterfront
+
+-   Cup noodle museum
+
+-   Leonard’s donuts
+
+-   Visit to passenger ship
+
+-   Chinatown
+
+-   Nice shopping street
+
+-   Another shopping street
+
+### Fujiyoshida
+
+-   Five story pagoda
+
+-   Sushi conveyor restaurant
+
+-   FabCafe
+
+-   Five lakes
+
+-   Jazz bar
+
+### Tokyo
+
+-   Ginza: Luxury shopping and dining; features Grand Seiko, Chanel, Uniqlo flagship, and Kabuki-za Theatre.
+
+-   Harajuku: Trendy street fashion, Takeshita Street, Fender flagship store; close to Meiji Shrine.
+
+-   Ikebukuro: Shopping, anime culture, and transport hub with a local Tokyo atmosphere.
+
+-   Nihonbashi: Historic financial center with traditional shops and department stores like Mitsukoshi and Maruzen for quality Japanese books and stationery.
+
+-   Roppongi: Nightlife, art museums, and embassies.
+
+-   Shibuya: Youth culture, fashion, and entertainment.
+
+-   Shinjuku: Business district with nightlife and skyscrapers.
+
+-   Ueno: Cultural hub with Ueno Park, museums, zoo, and Yoshimi-dōri Avenue's restaurants and shops near Ueno Station.
+
+## Miscellaneous Notes
+
+-   Travel dates: 2025-09-28 — 2025-10-14
+
+-   Airline: ANA to Haneda International Airport
+
+-   Transportation: Trains using the Welcome Suica Card and HIghway Bus
+
+-   Hotels: Hotel Mystays, Yokohama, Fujiyoshida Hostel, Mt. Fuji, Dormy Inn Ikebukuro
+
+## Photos

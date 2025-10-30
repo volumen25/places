@@ -23,6 +23,10 @@ Visited Osaka, Kobe, Hiroshima, Takayama, Matsumoto and Tokyo.
 
 -   Travel dates: 2024-06-17 — 2024-07-07
 
+-   Airline: ZIP Air to Narita International Airport
+
+-   Transportation: ANA plane to Osaka, Highway Buses, and trains using the Suica Card
+
 ## Photos
 
 ![](images/japan25.jpg){group="my-gallery"}
