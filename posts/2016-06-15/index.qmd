@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-date: "2025-10-15"
+date: "2016-06-15"
 date-modified: "2025-10-30"
 lightbox:
   match: auto
@@ -8,42 +8,14 @@ lightbox:
   desc-position: bottom #top, bottom, left, right
   loop: true
 categories:
-  - "2025"
+  - "2016"
   - Japan
   - Asia
 ---
 
 ## Brief Summary
 
-One of the most memorable trips, slow pace, revisiting our favorite places and discovering new ones we haven't before.
-
-### Yokohama
-
--   Waterfront
-
--   Cup noodle museum
-
--   Leonard’s donuts
-
--   Visit to passenger ship
-
--   Chinatown
-
--   Nice shopping street
-
--   Another shopping street
-
-### Fujiyoshida
-
--   Five story pagoda
-
--   Sushi conveyor restaurant
-
--   FabCafe
-
--   Five lakes
-
--   Jazz bar
+One of the most memorable trips.
 
 ### Tokyo
 
@@ -55,6 +27,8 @@ One of the most memorable trips, slow pace, revisiting our favorite places and d
 
 -   Nihonbashi: Historic financial center with traditional shops and department stores like Mitsukoshi and Maruzen for quality Japanese books and stationery.
 
+-   Roppongi: Nightlife, art museums, and embassies.
+
 -   Shibuya: Youth culture, fashion, and entertainment.
 
 -   Shinjuku: Business district with nightlife and skyscrapers.
@@ -63,13 +37,13 @@ One of the most memorable trips, slow pace, revisiting our favorite places and d
 
 ## Miscellaneous Notes
 
--   Travel dates: 2025-09-28 — 2025-10-14
+-   Travel dates: 2016
 
 -   Airline: ANA to Haneda International Airport
 
--   Transportation: Trains using the Welcome Suica Card and Highway Bus
+-   Transportation: Japan Pass, Shinkansen, and Tokyo Metro
 
--   Hotels: Hotel Mystays, Yokohama, Fujiyoshida Hostel, Mt. Fuji, Dormy Inn Ikebukuro
+-   Hotels: Tokyu Stay
 
 ## Photos
 

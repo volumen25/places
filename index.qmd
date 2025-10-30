@@ -3,7 +3,7 @@ title: "let's go (so we can get back)"
 listing:
   contents: posts
   sort: "date desc"
-  page-size: 3
+  page-size: 6
   type: default #table grid default
   categories: cloud #numbered unnumbered cloud
   feed:

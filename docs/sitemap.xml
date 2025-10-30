@@ -1,127 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://places.volumen.ca/about.html</loc>
-    <lastmod>2025-07-30T02:53:04.294Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2023-12-04/index.html</loc>
-    <lastmod>2024-12-30T03:14:48.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2009-09-08/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.223Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2011-09-14/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.222Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2023-07-29/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2015-03-23/index.html</loc>
-    <lastmod>2025-03-26T04:48:55.541Z</lastmod>
+    <loc>https://places.volumen.ca/posts/2025-10-15/index.html</loc>
+    <lastmod>2025-10-30T18:40:08.022Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2025-07-27/index.html</loc>
-    <lastmod>2025-07-30T14:07:48.045Z</lastmod>
+    <lastmod>2025-07-30T20:17:46.510Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2025-04-09/index.html</loc>
-    <lastmod>2025-06-19T02:24:55.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2008-08-08/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2014-08-15/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2025-07-26/index.html</loc>
-    <lastmod>2025-08-12T06:38:10.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2018-04-19/index.html</loc>
-    <lastmod>2025-03-24T10:00:44.897Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2009-06-18/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2007-04-19/index.html</loc>
-    <lastmod>2025-06-19T10:08:24.305Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2011-09-05/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.218Z</lastmod>
+    <lastmod>2025-07-28T18:02:15.808Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2024-09-23/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.218Z</lastmod>
+    <lastmod>2025-08-18T22:43:02.091Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2023-12-04/index.html</loc>
+    <lastmod>2025-07-28T18:02:13.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2019-11-23/index.html</loc>
+    <lastmod>2025-07-28T18:02:12.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2016-06-15/index.html</loc>
+    <lastmod>2025-10-30T18:36:41.912Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2015-03-23/index.html</loc>
+    <lastmod>2025-07-28T18:02:11.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2013-08-16/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2012-07-01/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2011-09-05/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2010-08-14/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2009-09-08/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2009-06-18/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2008-08-08/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/index.html</loc>
+    <lastmod>2025-10-30T18:31:22.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/about.html</loc>
+    <lastmod>2025-07-28T19:31:46.745Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2007-04-19/index.html</loc>
+    <lastmod>2025-07-28T18:02:10.118Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2009-02-07/index.html</loc>
+    <lastmod>2025-07-28T18:02:10.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2009-08-08/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2010-06-16/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2011-02-02/index.html</loc>
+    <lastmod>2025-07-28T18:02:10.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2011-09-14/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2012-09-15/index.html</loc>
+    <lastmod>2025-07-28T18:02:10.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2014-08-15/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2015-08-14/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2018-04-19/index.html</loc>
+    <lastmod>2025-07-28T18:02:11.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2023-07-29/index.html</loc>
+    <lastmod>2025-08-18T22:43:02.090Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2024-07-08/index.html</loc>
     <lastmod>2025-10-30T16:54:08.283Z</lastmod>
   </url>
   <url>
-    <loc>https://places.volumen.ca/posts/2011-02-02/index.html</loc>
-    <lastmod>2025-06-19T09:34:41.149Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2010-06-16/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2013-08-16/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2019-11-23/index.html</loc>
-    <lastmod>2025-03-26T04:48:51.654Z</lastmod>
-  </url>
-  <url>
     <loc>https://places.volumen.ca/posts/2024-12-04/index.html</loc>
-    <lastmod>2025-03-24T09:46:23.772Z</lastmod>
+    <lastmod>2025-07-28T18:02:15.108Z</lastmod>
   </url>
   <url>
-    <loc>https://places.volumen.ca/posts/2009-02-07/index.html</loc>
-    <lastmod>2025-06-19T10:08:56.093Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2012-09-15/index.html</loc>
-    <lastmod>2025-06-19T09:41:44.491Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2010-08-14/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2012-07-01/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2009-08-08/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2015-08-14/index.html</loc>
-    <lastmod>2025-08-18T09:14:44.222Z</lastmod>
+    <loc>https://places.volumen.ca/posts/2025-07-26/index.html</loc>
+    <lastmod>2025-08-12T16:42:10.482Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2025-08-29/index.html</loc>
-    <lastmod>2025-08-31T18:52:16.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/index.html</loc>
-    <lastmod>2025-08-14T17:24:01.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2025-10-15/index.html</loc>
-    <lastmod>2025-10-30T17:20:39.865Z</lastmod>
+    <lastmod>2025-09-02T19:06:14.722Z</lastmod>
   </url>
 </urlset>
