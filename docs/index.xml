@@ -10,7 +10,6 @@
 <atom:link href="https://places.volumen.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<<<<<<< Updated upstream
 <lastBuildDate>Wed, 15 Oct 2025 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Japan</title>
@@ -93,9 +92,6 @@
   <guid>https://places.volumen.ca/posts/2025-10-15/</guid>
   <pubDate>Wed, 15 Oct 2025 07:00:00 GMT</pubDate>
 </item>
-=======
-<lastBuildDate>Fri, 29 Aug 2025 07:00:00 GMT</lastBuildDate>
->>>>>>> Stashed changes
 <item>
   <title>Whistler</title>
   <link>https://places.volumen.ca/posts/2025-08-29/</link>
