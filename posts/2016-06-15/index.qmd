@@ -37,7 +37,7 @@ One of the most memorable trips.
 
 ## Miscellaneous Notes
 
--   Travel dates: 2016
+-   Travel dates: 2016-06-22 - 2016-07-06
 
 -   Airline: ANA to Haneda International Airport
 
@@ -47,6 +47,34 @@ One of the most memorable trips.
 
 ## Photos
 
-![Mt. Fuji from our window](images/MtFuji1.jpg){group="Fuji"}
+![Japan01](images/Japan01.jpeg){group="Japan"}
 
-![Mt. Fuji](images/MtFuji2.jpg){group="Fuji"}
+![Japan02](images/Japan02.jpeg){group="Japan"}
+
+![Japan03](images/Japan03.jpeg){group="Japan"}
+
+![Japan04](images/Japan04.jpeg){group="Japan"}
+
+![Japan05](images/Japan05.jpeg){group="Japan"}
+
+![Japan06](images/Japan06.jpeg){group="Japan"}
+
+![Japan07](images/Japan07.jpeg){group="Japan"}
+
+![Japan08](images/Japan08.jpeg){group="Japan"}
+
+![Japan09](images/Japan09.jpeg){group="Japan"}
+
+![Japan10](images/Japan10.jpeg){group="Japan"}
+
+![Japan11](images/Japan11.jpeg){group="Japan"}
+
+![Japan12](images/Japan12.jpeg){group="Japan"}
+
+![Japan13](images/Japan13.jpeg){group="Japan"}
+
+![Japan14](images/Japan14.jpeg){group="Japan"}
+
+![Japan15](images/Japan15.jpeg){group="Japan"}
+
+![Japan16](images/Japan16.jpeg){group="Japan"}
