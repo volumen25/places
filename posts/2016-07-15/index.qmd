@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-date: "2016-06-15"
+date: "2016-07-15"
 date-modified: "2025-10-30"
 lightbox:
   match: auto
