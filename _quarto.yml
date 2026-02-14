@@ -15,7 +15,7 @@ website:
         href: index.xml
   back-to-top-navigation: true
   page-footer:
-    left: 1999-2025 Places
+    left: 1999-2026 Places
     right: |
       Built with <a href="https://quarto.org"> Quarto {{< version >}}</a>
 format:

@@ -3,11 +3,11 @@ title: "let's go (so we can get back)"
 listing:
   contents: posts
   sort: "date desc"
-  page-size: 6
+  page-size: 10
   type: default #table grid default
   categories: cloud #numbered unnumbered cloud
   feed:
-    items: 10
+    items: 15
   sort-ui: false
   filter-ui: false
   #fields: [date, title, description]
