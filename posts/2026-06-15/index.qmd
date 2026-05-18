@@ -1,0 +1,30 @@
+---
+title: "Oahu"
+draft: true
+date: "2026-06-15"
+# date-modified: "2026-06-16"
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2026"
+  - Hawaii
+---
+
+## Brief Summary
+
+A brief but memorable vacation.
+
+## Miscellaneous Notes
+
+- Travel dates: 2026-06-03 - 2026-06-13
+
+- Hotel:
+
+- Car Rental: None
+
+- Transportation: On foot and HOLO card on TheBus or at a Skyline station.
+
+## Photos
