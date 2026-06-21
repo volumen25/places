@@ -176,6 +176,8 @@ My right knee hurts and continues to bother me.
 
 ## Photos
 
+![Oahu](images/Oahu73.jpeg){group="Oahu"}
+
 ![Oahu](images/Oahu01.jpeg){group="Oahu"}
 
 ![Oahu](images/Oahu02.jpeg){group="Oahu"}
@@ -319,8 +321,6 @@ My right knee hurts and continues to bother me.
 ![Oahu](images/Oahu71.jpeg){group="Oahu"}
 
 ![Oahu](images/Oahu72.jpeg){group="Oahu"}
-
-![Oahu](images/Oahu73.jpeg){group="Oahu"}
 
 ![Oahu](images/Oahu74.jpeg){group="Oahu"}
 
