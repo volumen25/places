@@ -81,4 +81,3 @@
 ![Whistler](images/Whistler41.jpeg){group="Whistler"}
 
 ![Whistler](images/Whistler42.jpeg){group="Whistler"}
-
