@@ -1,7 +1,8 @@
 ---
 title: "Oahu"
 date: "2026-06-15"
-date-modified: "2026-06-21"
+date-modified: "2026-06-22"
+image: images/Oahu88.jpeg
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -34,11 +35,11 @@ During our stay on O‘ahu, we explored the island with few plans, enjoying beac
 
 **2026-06-13 (Sat)**
 
-We started our day with delicious malasadas and hotel coffee, followed by a refreshing swim at our beach.  We then strolled around the main streets, enjoyed fish burgers at Paia Fish Market, and sipped mai-tais and Asahi in the hotel lobby.  A shuttle picked us up for the airport, and we had a smooth check-in and customs crossing. Our flight was uneventful, and we landed safely. We arrived home safely, and it was a wonderful, happy day.
+We started our day with delicious malasadas and hotel coffee, followed by a refreshing swim at our beach. We then strolled around the main streets, enjoyed fish burgers at Paia Fish Market, and sipped mai-tais and Asahi in the hotel lobby. A shuttle picked us up for the airport, and we had a smooth check-in and customs crossing. Our flight was uneventful, and we landed safely. We arrived home safely, and it was a wonderful, happy day.
 
 **2026-06-12 (Fri)**
 
-The Holo pass expires today at noon.  We enjoyed some malasadas and hotel coffee on the balcony.
+The Holo pass expires today at noon. We enjoyed some malasadas and hotel coffee on the balcony.
 
 The Pan Pacific festival was happening, featuring incredible Japanese drumming and Hawaiian/Polynesian dance performances.
 
@@ -175,8 +176,6 @@ Will these notes ever become coherent enough to make sense? I do not know. What 
 My right knee hurts and continues to bother me.
 
 ## Photos
-
-![Oahu](images/Oahu88.jpeg){group="Oahu"}
 
 ![Oahu](images/Oahu01.jpeg){group="Oahu"}
 

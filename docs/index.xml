@@ -111,12 +111,6 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/Oahu88.jpeg" class="lightbox" data-gallery="Oahu" title="Oahu"><img src="https://places.volumen.ca/posts/2026-06-15/images/Oahu88.jpeg" class="img-fluid figure-img" alt="Oahu"></a></p>
-<figcaption>Oahu</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
 <p><a href="images/Oahu01.jpeg" class="lightbox" data-gallery="Oahu" title="Oahu"><img src="https://places.volumen.ca/posts/2026-06-15/images/Oahu01.jpeg" class="img-fluid figure-img" alt="Oahu"></a></p>
 <figcaption>Oahu</figcaption>
 </figure>
@@ -676,6 +670,7 @@
   <category>Hawaii</category>
   <guid>https://places.volumen.ca/posts/2026-06-15/</guid>
   <pubDate>Mon, 15 Jun 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://places.volumen.ca/posts/2026-06-15/images/Oahu88.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Japan</title>
