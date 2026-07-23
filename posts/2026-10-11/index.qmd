@@ -1,0 +1,32 @@
+---
+title: "Japan"
+date: "2026-10-11"
+date-modified: "2026-10-12"
+draft: true
+lightbox:
+  match: auto
+  effect: zoom # fade, zoom
+  desc-position: bottom #top, bottom, left, right
+  loop: true
+categories:
+  - "2026"
+  - Japan
+  - Asia
+---
+
+## Brief Summary
+
+Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → ferry → Maizuru → Kyoto → Tokyo (departure).
+
+## Miscellaneous Notes
+
+- Travel dates: 2026-09-19 — 2026-10-07
+
+- Airline: ZIP to NRT Narita International Airport T1
+
+- Transportation: 
+
+- Hotels: 
+
+## Photos
+
