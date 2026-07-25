@@ -17,7 +17,7 @@ website:
   page-footer:
     left: 1999-2026 Places
     right: |
-      Built with <a href="https://quarto.org"> Quarto {{< version >}}</a>
+      Built with <a href="https://quarto.org"> Quarto</a> {{< version >}}
 format:
   html:
     theme: cosmo #default journal cosmo litera sketchy
