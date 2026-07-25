@@ -2,7 +2,7 @@
 title: "Japan"
 date: "2026-10-11"
 date-modified: "2026-10-12"
-draft: true
+#draft: true
 lightbox:
   match: auto
   effect: zoom # fade, zoom
