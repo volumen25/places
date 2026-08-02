@@ -16,7 +16,7 @@ categories:
 
 ## Brief Summary
 
-Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → ferry → Maizuru → Kyoto → Tokyo (departure).
+Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → Otaru → ferry → Maizuru → Kyoto → Tokyo (departure).
 
 ## Miscellaneous Notes
 
@@ -24,8 +24,40 @@ Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → ferry → M
 
 - Airline: ZIP to NRT Narita International Airport T1
 
-- Transportation: Shin Nihonkai Ferry: Otaru-Maizuru (Total amount 52,000 yen)
+- Transportation: Shin Nihonkai Ferry "Keyaki": Otaru-Maizuru (Total cost **¥**52,000)
 
 - Hotels:
 
 ## Photos
+
+![Keyaki](images/keyaki.jpg)
+
+## Keyaki
+
+The interior of the ferry features open spaces including a three-story atrium at the entrance, elevators with clear walls and doors, and a forward salon with a two-story atrium. There is an open-air bath on the top deck and a multipurpose room for enjoying a variety of activities. A variety of cabins are available to provide maritime travel experiences that meet various needs.
+
+### Ship’s Particulars
+
+**Builder:** Mitsubishi Shipbuilding, Shimonoseki Shipyard
+
+**Completed:** November 11, 2025; entered service on November 14, 2025, with a maiden voyage from Otaru to Maizuru.
+
+**Gross Tonnage:** 14,157 tons
+
+**Length:** 199.0 meters
+
+**Beam:** 25.5 meters
+
+**Service Speed:** 28.3 knots (approximately 52.4 kilometres per hour)
+
+**Passenger Capacity:** 286
+
+**Vehicle Capacity:** Approximately 150 trucks and 30 passenger cars
+
+**Named After:** The zelkova tree (keyaki), the official tree of Maizuru City.
+
+**Main Engines:** Four Wärtsilä 14V31 diesel engines
+
+**Configuration:** Twin-shaft (two propellers) with a close-coupled arrangement. This unusual design minimizes efficiency loss compared to twin-screw setups with a single shaft.
+
+**Total Output:** 46,445 horsepower (34,160 kilowatts)

@@ -22,21 +22,46 @@
 
 <section id="brief-summary" class="level2">
 <h2 class="anchored" data-anchor-id="brief-summary">Brief Summary</h2>
-<p>Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → ferry → Maizuru → Kyoto → Tokyo (departure).</p>
+<p>Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → Otaru → ferry → Maizuru → Kyoto → Tokyo (departure).</p>
 </section>
 <section id="miscellaneous-notes" class="level2">
 <h2 class="anchored" data-anchor-id="miscellaneous-notes">Miscellaneous Notes</h2>
 <ul>
 <li><p>Travel dates: 2026-09-19 — 2026-10-07</p></li>
 <li><p>Airline: ZIP to NRT Narita International Airport T1</p></li>
-<li><p>Transportation:</p></li>
+<li><p>Transportation: Shin Nihonkai Ferry “Keyaki”: Otaru-Maizuru (Total cost <strong>¥</strong>52,000)</p></li>
 <li><p>Hotels:</p></li>
 </ul>
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/keyaki.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Keyaki"><img src="https://places.volumen.ca/posts/2026-10-11/images/keyaki.jpg" class="img-fluid figure-img" alt="Keyaki"></a></p>
+<figcaption>Keyaki</figcaption>
+</figure>
+</div>
+</section>
+<section id="keyaki" class="level2">
+<h2 class="anchored" data-anchor-id="keyaki">Keyaki</h2>
+<p>The interior of the ferry features open spaces including a three-story atrium at the entrance, elevators with clear walls and doors, and a forward salon with a two-story atrium. There is an open-air bath on the top deck and a multipurpose room for enjoying a variety of activities. A variety of cabins are available to provide maritime travel experiences that meet various needs.</p>
+<section id="ships-particulars" class="level3">
+<h3 class="anchored" data-anchor-id="ships-particulars">Ship’s Particulars</h3>
+<p><strong>Builder:</strong> Mitsubishi Shipbuilding, Shimonoseki Shipyard</p>
+<p><strong>Completed:</strong> November 11, 2025; entered service on November 14, 2025, with a maiden voyage from Otaru to Maizuru.</p>
+<p><strong>Gross Tonnage:</strong> 14,157 tons</p>
+<p><strong>Length:</strong> 199.0 meters</p>
+<p><strong>Beam:</strong> 25.5 meters</p>
+<p><strong>Service Speed:</strong> 28.3 knots (approximately 52.4 kilometres per hour)</p>
+<p><strong>Passenger Capacity:</strong> 286</p>
+<p><strong>Vehicle Capacity:</strong> Approximately 150 trucks and 30 passenger cars</p>
+<p><strong>Named After:</strong> The zelkova tree (keyaki), the official tree of Maizuru City.</p>
+<p><strong>Main Engines:</strong> Four Wärtsilä 14V31 diesel engines</p>
+<p><strong>Configuration:</strong> Twin-shaft (two propellers) with a close-coupled arrangement. This unusual design minimizes efficiency loss compared to twin-screw setups with a single shaft.</p>
+<p><strong>Total Output:</strong> 46,445 horsepower (34,160 kilowatts)</p>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
