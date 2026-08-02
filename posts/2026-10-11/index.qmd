@@ -24,7 +24,7 @@ Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → Otaru → f
 
 - Airline: ZIP to NRT Narita International Airport T1
 
-- Transportation: Shin Nihonkai Ferry "Keyaki": Otaru-Maizuru (Total cost **¥**52,000)
+- Transportation: Shin Nihonkai RoPax Ferry "Keyaki": Otaru-Maizuru (Total cost ¥52,000)
 
 - Hotels:
 
@@ -34,7 +34,7 @@ Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → Otaru → f
 
 ## Keyaki
 
-The interior of the ferry features open spaces including a three-story atrium at the entrance, elevators with clear walls and doors, and a forward salon with a two-story atrium. There is an open-air bath on the top deck and a multipurpose room for enjoying a variety of activities. A variety of cabins are available to provide maritime travel experiences that meet various needs.
+The interior of the RoPax ferry features open spaces including a three-story atrium at the entrance, elevators with clear walls and doors, and a forward salon with a two-story atrium. There is an open-air bath on the top deck and a multipurpose room for enjoying a variety of activities. A variety of cabins are available to provide maritime travel experiences that meet various needs.
 
 ### Ship’s Particulars
 
@@ -61,3 +61,13 @@ The interior of the ferry features open spaces including a three-story atrium at
 **Configuration:** Twin-shaft (two propellers) with a close-coupled arrangement. This unusual design minimizes efficiency loss compared to twin-screw setups with a single shaft.
 
 **Total Output:** 46,445 horsepower (34,160 kilowatts)
+
+### The Wärtsilä 31 in a nutshell
+
+- Energy efficient – Consumes on average 8–10g/kWh less fuel compared with the closest competitor across its entire load range, saving up to EUR 10,000 per day depending on your vessel type.
+
+- Fuel flexible – Can operate on HFO, MDO, low viscosity or low-sulphur fuels and LNG.
+
+- Easier to maintain plus less downtime – Save up to 20% on maintenance costs; initial maintenance required after 8,000 instead of 1,000 hours; exchange modules reduce downtime by speeding up maintenance.
+
+- Operationally flexible – dual-fuel engine can switch to gas instantaneously when your vessel enters an ECA without losing speed; the Wärtsilä 31 can easily be adapted for different operating profiles and future requirements.
