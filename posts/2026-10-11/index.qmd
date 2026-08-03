@@ -36,7 +36,11 @@ Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → Otaru → f
 
 ## Photos
 
-![Keyaki](images/keyaki.jpg)
+![Keyaki](images/keyaki.jpg){group="keyaki"}
+
+![Keyaki](images/keyaki1.jpg){group="keyaki"}
+
+![Keyaki](images/keyaki2.jpeg){group="keyaki"}
 
 ## Keyaki
 

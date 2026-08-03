@@ -44,7 +44,19 @@
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="images/keyaki.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Keyaki"><img src="https://places.volumen.ca/posts/2026-10-11/images/keyaki.jpg" class="img-fluid figure-img" alt="Keyaki"></a></p>
+<p><a href="images/keyaki.jpg" class="lightbox" data-gallery="keyaki" title="Keyaki"><img src="https://places.volumen.ca/posts/2026-10-11/images/keyaki.jpg" class="img-fluid figure-img" alt="Keyaki"></a></p>
+<figcaption>Keyaki</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/keyaki1.jpg" class="lightbox" data-gallery="keyaki" title="Keyaki"><img src="https://places.volumen.ca/posts/2026-10-11/images/keyaki1.jpg" class="img-fluid figure-img" alt="Keyaki"></a></p>
+<figcaption>Keyaki</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/keyaki2.jpeg" class="lightbox" data-gallery="keyaki" title="Keyaki"><img src="https://places.volumen.ca/posts/2026-10-11/images/keyaki2.jpeg" class="img-fluid figure-img" alt="Keyaki"></a></p>
 <figcaption>Keyaki</figcaption>
 </figure>
 </div>
