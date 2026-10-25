@@ -3,107 +3,106 @@
 # requires-python = ">=3.14"
 # dependencies = ["pillow"]
 # ///
-from pathlib import Path
-from datetime import datetime
-from PIL import Image
-from PIL.ExifTags import TAGS
 import sys
+from datetime import datetime
+from pathlib import Path
+
+from PIL import Image
+from PIL.ExifTags import IFD, Base
 
 # === Settings ===
-folder = Path(__file__).parent        # Script folder (one level above images/)
-base_name = "Hokkaido"                # Base name for images and markdown
-ext = ".jpeg"                         # Desired final extension (keep the dot)
-images_subfolder = folder / "images"  # Expected images folder
-output = folder / f"{base_name}.txt"  # Text output file
+FOLDER = Path(__file__).resolve().parent  # Folder containing the script and images/
+BASE_NAME = "Hokkaido"                    # Base name for images and output file
+EXT = ".jpeg"                             # Final extension
+ALLOWED_EXTS = {".jpg", ".jpeg", ".png"}  # Input extensions (case-insensitive)
+TEMP_PREFIX = "__tmprename__"
+IMAGE_FOLDER_HINTS = ("image", "photo", "pic")
 
-# Normalize extension
-if not ext.startswith("."):
-    ext = "." + ext
+ext = EXT if EXT.startswith(".") else f".{EXT}"
+output = FOLDER / f"{BASE_NAME}.txt"
 
-def find_images_folder(fld):
-    """Try default 'images' first; if missing, search for a likely images dir (case-insensitive)."""
-    if (fld / "images").exists():
-        return fld / "images"
-    # naive search for any subfolder whose name looks like images/photos/pics
-    candidates = [d for d in fld.iterdir() if d.is_dir() and any(k in d.name.lower() for k in ("image", "images", "photo", "photos", "pic", "pics"))]
+
+def find_images_folder(parent: Path) -> Path | None:
+    """Return parent/images, or the first subfolder whose name looks like an image folder."""
+    default = parent / "images"
+    if default.is_dir():
+        return default
+    candidates = sorted(
+        d for d in parent.iterdir()
+        if d.is_dir() and any(hint in d.name.lower() for hint in IMAGE_FOLDER_HINTS)
+    )
     if candidates:
-        print("Note: using detected folder:", candidates[0].name)
+        print(f"Note: using detected folder: {candidates[0].name}")
         return candidates[0]
     return None
 
-def get_image_date(file_path):
-    """Get photo date from EXIF DateTimeOriginal, fallback to modified time."""
+
+def get_image_date(path: Path) -> datetime:
+    """Return EXIF DateTimeOriginal, falling back to the file's modified time."""
     try:
-        with Image.open(file_path) as img:
-            exif = img._getexif()
-            if exif:
-                for tag_id, value in exif.items():
-                    tag = TAGS.get(tag_id, tag_id)
-                    if tag == "DateTimeOriginal" and isinstance(value, str):
-                        return datetime.strptime(value, "%Y:%m:%d %H:%M:%S")
-    except Exception:
+        with Image.open(path) as img:
+            value = img.getexif().get_ifd(IFD.Exif).get(Base.DateTimeOriginal)
+        if isinstance(value, str):
+            return datetime.strptime(value, "%Y:%m:%d %H:%M:%S")
+    except (OSError, ValueError):
         pass
-    return datetime.fromtimestamp(file_path.stat().st_mtime)
+    return datetime.fromtimestamp(path.stat().st_mtime)
+
+
+def list_dir(path: Path) -> None:
+    for p in sorted(path.iterdir()):
+        print(f"  {p.name}")
+
 
 # Resolve images folder
-if not images_subfolder.exists():
-    detected = find_images_folder(folder)
-    if detected is None:
-        print(f"ERROR: no images folder found at '{images_subfolder}' and no candidate directories detected.")
-        print("Directory listing of script folder:")
-        for p in sorted(folder.iterdir()):
-            print("  ", p.name)
-        sys.exit(1)
-    images_subfolder = detected
+images_dir = find_images_folder(FOLDER)
+if images_dir is None:
+    print(f"ERROR: no images folder found in '{FOLDER}'.")
+    print("Directory listing of script folder:")
+    list_dir(FOLDER)
+    sys.exit(1)
 
-print(f"Looking for images in: {images_subfolder.resolve()}")
+print(f"Looking for images in: {images_dir}")
 
-# Collect files (case-insensitive jpg/jpeg/png allowed — adjust if you prefer only jpeg)
-allowed_exts = {".jpg", ".jpeg", ".png"}
 image_files = sorted(
-    [f for f in images_subfolder.iterdir() if f.is_file() and f.suffix.lower() in allowed_exts],
-    key=get_image_date
+    (f for f in images_dir.iterdir() if f.is_file() and f.suffix.lower() in ALLOWED_EXTS),
+    key=get_image_date,
 )
 
 print(f"Found {len(image_files)} image(s).")
-if len(image_files) == 0:
+if not image_files:
     print("Files present in the images folder:")
-    for f in sorted(images_subfolder.iterdir()):
-        print("  ", f.name)
+    list_dir(images_dir)
     sys.exit(1)
 
-# Prepare numbering width (e.g., 001 if >99)
+# Numbering width (at least 2 digits, e.g. 001 if there are more than 99 images)
 width = max(2, len(str(len(image_files))))
 
-# Two-pass safe rename inside images_subfolder to avoid collisions
-temp_prefix = "__tmprename__"
-temp_paths = []
+# Two-pass rename to avoid name collisions
 print("Renaming to temporary names...")
+temp_paths = []
 for idx, file in enumerate(image_files, start=1):
-    temp_name = f"{temp_prefix}{idx:0{width}d}{file.suffix.lower()}"
-    temp_path = images_subfolder / temp_name
+    temp_path = images_dir / f"{TEMP_PREFIX}{idx:0{width}d}{file.suffix.lower()}"
     file.rename(temp_path)
     temp_paths.append(temp_path)
-    print(f"  {file.name} -> {temp_name}")
+    print(f"  {file.name} -> {temp_path.name}")
 
-# Final rename to base_nameNN.ext
 print("Renaming temporary files to final names...")
 final_names = []
 for idx, temp in enumerate(temp_paths, start=1):
-    final_name = f"{base_name}{idx:0{width}d}{ext}"
-    final_path = images_subfolder / final_name
-    temp.rename(final_path)
+    final_name = f"{BASE_NAME}{idx:0{width}d}{ext}"
+    temp.rename(images_dir / final_name)
     final_names.append(final_name)
     print(f"  {temp.name} -> {final_name}")
 
-# Generate Markdown next to script, referencing images/<file>
-print(f"\nGenerating Markdown file: {output}")
-with open(output, "w", encoding="utf-8") as md:
-    display_name = base_name.capitalize()
+# Write the Markdown-style image list next to the script
+print(f"\nGenerating text file: {output}")
+display_name = BASE_NAME.capitalize()
+with output.open("w", encoding="utf-8") as out:
     for name in final_names:
-        md.write(f'![{display_name}](images/{name}){{group="{display_name}"}}\n\n')
+        out.write(f'![{display_name}](images/{name}){{group="{display_name}"}}\n\n')
 
 print("\nDone! Summary:")
 print(f"  Total images processed: {len(final_names)}")
-print(f"  Text written to: {output.resolve()}")
-print(f"  Renamed images are in: {images_subfolder.resolve()}")
+print(f"  Text written to: {output}")
+print(f"  Renamed images are in: {images_dir}")
