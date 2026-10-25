@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://places.volumen.ca/about.html</loc>
-    <lastmod>2026-07-25T19:26:28.281Z</lastmod>
+    <lastmod>2026-10-08T07:50:25.118Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2023-12-04/index.html</loc>
@@ -65,12 +65,20 @@
     <lastmod>2026-10-08T07:50:27.292Z</lastmod>
   </url>
   <url>
-    <loc>https://places.volumen.ca/posts/2011-09-05/index.html</loc>
-    <lastmod>2026-10-08T07:50:26.734Z</lastmod>
+    <loc>https://places.volumen.ca/posts/2026-10-11/index.html</loc>
+    <lastmod>2026-10-25T14:34:45.358Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2024-09-23/index.html</loc>
     <lastmod>2026-10-08T07:50:27.423Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2011-09-05/index.html</loc>
+    <lastmod>2026-10-08T07:50:26.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://places.volumen.ca/posts/2026-10-11/Hokkaido.html</loc>
+    <lastmod>2026-10-25T14:22:41.033Z</lastmod>
   </url>
   <url>
     <loc>https://places.volumen.ca/posts/2007-04-19/index.html</loc>
@@ -131,9 +139,5 @@
   <url>
     <loc>https://places.volumen.ca/index.html</loc>
     <lastmod>2026-10-08T07:50:26.706Z</lastmod>
-  </url>
-  <url>
-    <loc>https://places.volumen.ca/posts/2026-10-11/index.html</loc>
-    <lastmod>2026-10-09T09:31:52.641Z</lastmod>
   </url>
 </urlset>
