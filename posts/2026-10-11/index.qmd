@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-date: "2026-10-09"
+date: "2026-10-11"
 date-modified: "2026-10-25"
 image: images/Hokkaido77.jpeg
 lightbox:
