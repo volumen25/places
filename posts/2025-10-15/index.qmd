@@ -1,7 +1,8 @@
 ---
 title: "Japan"
 date: "2025-10-15"
-date-modified: "2025-10-30"
+date-modified: "2026-10-25"
+image: images/MtFuji1.jpg
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -19,60 +20,594 @@ One of the most memorable trips, slow pace, revisiting our favorite places and d
 
 ### Yokohama
 
--   Waterfront
+- Waterfront
 
--   Cup noodle museum
+- Cup noodle museum
 
--   Leonard’s donuts
+- Leonard’s donuts
 
--   Visit to passenger ship
+- Visit to passenger ship
 
--   Chinatown
+- Chinatown
 
--   Nice shopping street
+- Nice shopping street
 
--   Another shopping street
+- Another shopping street
 
 ### Fujiyoshida
 
--   Five story pagoda
+- Five story pagoda
 
--   Sushi conveyor restaurant
+- Sushi conveyor restaurant
 
--   FabCafe
+- FabCafe
 
--   Five lakes
+- Five lakes
 
--   Jazz bar
+- Jazz bar
 
 ### Tokyo
 
--   Ginza: Luxury shopping and dining; features Grand Seiko, Chanel, Uniqlo flagship, and Kabuki-za Theatre.
+- Ginza: Luxury shopping and dining; features Grand Seiko, Chanel, Uniqlo flagship, and Kabuki-za Theatre.
 
--   Harajuku: Trendy street fashion, Takeshita Street, Fender flagship store; close to Meiji Shrine.
+- Harajuku: Trendy street fashion, Takeshita Street, Fender flagship store; close to Meiji Shrine.
 
--   Ikebukuro: Shopping, anime culture, and transport hub with a local Tokyo atmosphere.
+- Ikebukuro: Shopping, anime culture, and transport hub with a local Tokyo atmosphere.
 
--   Nihonbashi: Historic financial center with traditional shops and department stores like Mitsukoshi and Maruzen for quality Japanese books and stationery.
+- Nihonbashi: Historic financial center with traditional shops and department stores like Mitsukoshi and Maruzen for quality Japanese books and stationery.
 
--   Shibuya: Youth culture, fashion, and entertainment.
+- Shibuya: Youth culture, fashion, and entertainment.
 
--   Shinjuku: Business district with nightlife and skyscrapers.
+- Shinjuku: Business district with nightlife and skyscrapers.
 
--   Ueno: Cultural hub with Ueno Park, museums, zoo, and Yoshimi-dōri Avenue's restaurants and shops near Ueno Station.
+- Ueno: Cultural hub with Ueno Park, museums, zoo, and Yoshimi-dōri Avenue's restaurants and shops near Ueno Station.
 
 ## Miscellaneous Notes
 
--   Travel dates: 2025-09-28 — 2025-10-14
+- Travel dates: 2025-09-28 — 2025-10-14
 
--   Airline: ANA to Haneda International Airport
+- Airline: ANA to Haneda International Airport
 
--   Transportation: Trains using the Welcome Suica Card and Highway Bus
+- Transportation: Trains using the Welcome Suica Card and Highway Bus
 
--   Hotels: Hotel Mystays, Yokohama, Fujiyoshida Hostel, Mt. Fuji, Dormy Inn Ikebukuro
+- Hotels: Hotel Mystays, Yokohama, Fujiyoshida Hostel, Mt. Fuji, Dormy Inn Ikebukuro
 
 ## Photos
 
-![Mt. Fuji from our window](images/MtFuji1.jpg){group="Fuji"}
+![Mt. Fuji from our window](images/MtFuji1.jpg){group="Japan"}
 
-![Mt. Fuji](images/MtFuji2.jpg){group="Fuji"}
+![Mt. Fuji](images/MtFuji2.jpg){group="Japan"}
+
+![Japan](images/Japan001.jpeg){group="Japan"}
+
+![Japan](images/Japan002.jpeg){group="Japan"}
+
+![Japan](images/Japan003.jpeg){group="Japan"}
+
+![Japan](images/Japan004.jpeg){group="Japan"}
+
+![Japan](images/Japan005.jpeg){group="Japan"}
+
+![Japan](images/Japan006.jpeg){group="Japan"}
+
+![Japan](images/Japan007.jpeg){group="Japan"}
+
+![Japan](images/Japan008.jpeg){group="Japan"}
+
+![Japan](images/Japan009.jpeg){group="Japan"}
+
+![Japan](images/Japan010.jpeg){group="Japan"}
+
+![Japan](images/Japan011.jpeg){group="Japan"}
+
+![Japan](images/Japan012.jpeg){group="Japan"}
+
+![Japan](images/Japan013.jpeg){group="Japan"}
+
+![Japan](images/Japan014.jpeg){group="Japan"}
+
+![Japan](images/Japan015.jpeg){group="Japan"}
+
+![Japan](images/Japan016.jpeg){group="Japan"}
+
+![Japan](images/Japan017.jpeg){group="Japan"}
+
+![Japan](images/Japan018.jpeg){group="Japan"}
+
+![Japan](images/Japan019.jpeg){group="Japan"}
+
+![Japan](images/Japan020.jpeg){group="Japan"}
+
+![Japan](images/Japan021.jpeg){group="Japan"}
+
+![Japan](images/Japan022.jpeg){group="Japan"}
+
+![Japan](images/Japan023.jpeg){group="Japan"}
+
+![Japan](images/Japan024.jpeg){group="Japan"}
+
+![Japan](images/Japan025.jpeg){group="Japan"}
+
+![Japan](images/Japan026.jpeg){group="Japan"}
+
+![Japan](images/Japan027.jpeg){group="Japan"}
+
+![Japan](images/Japan028.jpeg){group="Japan"}
+
+![Japan](images/Japan029.jpeg){group="Japan"}
+
+![Japan](images/Japan030.jpeg){group="Japan"}
+
+![Japan](images/Japan031.jpeg){group="Japan"}
+
+![Japan](images/Japan032.jpeg){group="Japan"}
+
+![Japan](images/Japan033.jpeg){group="Japan"}
+
+![Japan](images/Japan034.jpeg){group="Japan"}
+
+![Japan](images/Japan035.jpeg){group="Japan"}
+
+![Japan](images/Japan036.jpeg){group="Japan"}
+
+![Japan](images/Japan037.jpeg){group="Japan"}
+
+![Japan](images/Japan038.jpeg){group="Japan"}
+
+![Japan](images/Japan039.jpeg){group="Japan"}
+
+![Japan](images/Japan040.jpeg){group="Japan"}
+
+![Japan](images/Japan041.jpeg){group="Japan"}
+
+![Japan](images/Japan042.jpeg){group="Japan"}
+
+![Japan](images/Japan043.jpeg){group="Japan"}
+
+![Japan](images/Japan044.jpeg){group="Japan"}
+
+![Japan](images/Japan045.jpeg){group="Japan"}
+
+![Japan](images/Japan046.jpeg){group="Japan"}
+
+![Japan](images/Japan047.jpeg){group="Japan"}
+
+![Japan](images/Japan048.jpeg){group="Japan"}
+
+![Japan](images/Japan049.jpeg){group="Japan"}
+
+![Japan](images/Japan050.jpeg){group="Japan"}
+
+![Japan](images/Japan051.jpeg){group="Japan"}
+
+![Japan](images/Japan052.jpeg){group="Japan"}
+
+![Japan](images/Japan053.jpeg){group="Japan"}
+
+![Japan](images/Japan054.jpeg){group="Japan"}
+
+![Japan](images/Japan055.jpeg){group="Japan"}
+
+![Japan](images/Japan056.jpeg){group="Japan"}
+
+![Japan](images/Japan057.jpeg){group="Japan"}
+
+![Japan](images/Japan058.jpeg){group="Japan"}
+
+![Japan](images/Japan059.jpeg){group="Japan"}
+
+![Japan](images/Japan060.jpeg){group="Japan"}
+
+![Japan](images/Japan061.jpeg){group="Japan"}
+
+![Japan](images/Japan062.jpeg){group="Japan"}
+
+![Japan](images/Japan063.jpeg){group="Japan"}
+
+![Japan](images/Japan064.jpeg){group="Japan"}
+
+![Japan](images/Japan065.jpeg){group="Japan"}
+
+![Japan](images/Japan066.jpeg){group="Japan"}
+
+![Japan](images/Japan067.jpeg){group="Japan"}
+
+![Japan](images/Japan068.jpeg){group="Japan"}
+
+![Japan](images/Japan069.jpeg){group="Japan"}
+
+![Japan](images/Japan070.jpeg){group="Japan"}
+
+![Japan](images/Japan071.jpeg){group="Japan"}
+
+![Japan](images/Japan072.jpeg){group="Japan"}
+
+![Japan](images/Japan073.jpeg){group="Japan"}
+
+![Japan](images/Japan074.jpeg){group="Japan"}
+
+![Japan](images/Japan075.jpeg){group="Japan"}
+
+![Japan](images/Japan076.jpeg){group="Japan"}
+
+![Japan](images/Japan077.jpeg){group="Japan"}
+
+![Japan](images/Japan078.jpeg){group="Japan"}
+
+![Japan](images/Japan079.jpeg){group="Japan"}
+
+![Japan](images/Japan080.jpeg){group="Japan"}
+
+![Japan](images/Japan081.jpeg){group="Japan"}
+
+![Japan](images/Japan082.jpeg){group="Japan"}
+
+![Japan](images/Japan083.jpeg){group="Japan"}
+
+![Japan](images/Japan084.jpeg){group="Japan"}
+
+![Japan](images/Japan085.jpeg){group="Japan"}
+
+![Japan](images/Japan086.jpeg){group="Japan"}
+
+![Japan](images/Japan087.jpeg){group="Japan"}
+
+![Japan](images/Japan088.jpeg){group="Japan"}
+
+![Japan](images/Japan089.jpeg){group="Japan"}
+
+![Japan](images/Japan090.jpeg){group="Japan"}
+
+![Japan](images/Japan091.jpeg){group="Japan"}
+
+![Japan](images/Japan092.jpeg){group="Japan"}
+
+![Japan](images/Japan093.jpeg){group="Japan"}
+
+![Japan](images/Japan094.jpeg){group="Japan"}
+
+![Japan](images/Japan095.jpeg){group="Japan"}
+
+![Japan](images/Japan096.jpeg){group="Japan"}
+
+![Japan](images/Japan097.jpeg){group="Japan"}
+
+![Japan](images/Japan098.jpeg){group="Japan"}
+
+![Japan](images/Japan099.jpeg){group="Japan"}
+
+![Japan](images/Japan100.jpeg){group="Japan"}
+
+![Japan](images/Japan101.jpeg){group="Japan"}
+
+![Japan](images/Japan102.jpeg){group="Japan"}
+
+![Japan](images/Japan103.jpeg){group="Japan"}
+
+![Japan](images/Japan104.jpeg){group="Japan"}
+
+![Japan](images/Japan105.jpeg){group="Japan"}
+
+![Japan](images/Japan106.jpeg){group="Japan"}
+
+![Japan](images/Japan107.jpeg){group="Japan"}
+
+![Japan](images/Japan108.jpeg){group="Japan"}
+
+![Japan](images/Japan109.jpeg){group="Japan"}
+
+![Japan](images/Japan110.jpeg){group="Japan"}
+
+![Japan](images/Japan111.jpeg){group="Japan"}
+
+![Japan](images/Japan112.jpeg){group="Japan"}
+
+![Japan](images/Japan113.jpeg){group="Japan"}
+
+![Japan](images/Japan114.jpeg){group="Japan"}
+
+![Japan](images/Japan115.jpeg){group="Japan"}
+
+![Japan](images/Japan116.jpeg){group="Japan"}
+
+![Japan](images/Japan117.jpeg){group="Japan"}
+
+![Japan](images/Japan118.jpeg){group="Japan"}
+
+![Japan](images/Japan119.jpeg){group="Japan"}
+
+![Japan](images/Japan120.jpeg){group="Japan"}
+
+![Japan](images/Japan121.jpeg){group="Japan"}
+
+![Japan](images/Japan122.jpeg){group="Japan"}
+
+![Japan](images/Japan123.jpeg){group="Japan"}
+
+![Japan](images/Japan124.jpeg){group="Japan"}
+
+![Japan](images/Japan125.jpeg){group="Japan"}
+
+![Japan](images/Japan126.jpeg){group="Japan"}
+
+![Japan](images/Japan127.jpeg){group="Japan"}
+
+![Japan](images/Japan128.jpeg){group="Japan"}
+
+![Japan](images/Japan129.jpeg){group="Japan"}
+
+![Japan](images/Japan130.jpeg){group="Japan"}
+
+![Japan](images/Japan131.jpeg){group="Japan"}
+
+![Japan](images/Japan132.jpeg){group="Japan"}
+
+![Japan](images/Japan133.jpeg){group="Japan"}
+
+![Japan](images/Japan134.jpeg){group="Japan"}
+
+![Japan](images/Japan135.jpeg){group="Japan"}
+
+![Japan](images/Japan136.jpeg){group="Japan"}
+
+![Japan](images/Japan137.jpeg){group="Japan"}
+
+![Japan](images/Japan138.jpeg){group="Japan"}
+
+![Japan](images/Japan139.jpeg){group="Japan"}
+
+![Japan](images/Japan140.jpeg){group="Japan"}
+
+![Japan](images/Japan141.jpeg){group="Japan"}
+
+![Japan](images/Japan142.jpeg){group="Japan"}
+
+![Japan](images/Japan143.jpeg){group="Japan"}
+
+![Japan](images/Japan144.jpeg){group="Japan"}
+
+![Japan](images/Japan145.jpeg){group="Japan"}
+
+![Japan](images/Japan146.jpeg){group="Japan"}
+
+![Japan](images/Japan147.jpeg){group="Japan"}
+
+![Japan](images/Japan148.jpeg){group="Japan"}
+
+![Japan](images/Japan149.jpeg){group="Japan"}
+
+![Japan](images/Japan150.jpeg){group="Japan"}
+
+![Japan](images/Japan151.jpeg){group="Japan"}
+
+![Japan](images/Japan152.jpeg){group="Japan"}
+
+![Japan](images/Japan153.jpeg){group="Japan"}
+
+![Japan](images/Japan154.jpeg){group="Japan"}
+
+![Japan](images/Japan155.jpeg){group="Japan"}
+
+![Japan](images/Japan156.jpeg){group="Japan"}
+
+![Japan](images/Japan157.jpeg){group="Japan"}
+
+![Japan](images/Japan158.jpeg){group="Japan"}
+
+![Japan](images/Japan159.jpeg){group="Japan"}
+
+![Japan](images/Japan160.jpeg){group="Japan"}
+
+![Japan](images/Japan161.jpeg){group="Japan"}
+
+![Japan](images/Japan162.jpeg){group="Japan"}
+
+![Japan](images/Japan163.jpeg){group="Japan"}
+
+![Japan](images/Japan164.jpeg){group="Japan"}
+
+![Japan](images/Japan165.jpeg){group="Japan"}
+
+![Japan](images/Japan166.jpeg){group="Japan"}
+
+![Japan](images/Japan167.jpeg){group="Japan"}
+
+![Japan](images/Japan168.jpeg){group="Japan"}
+
+![Japan](images/Japan169.jpeg){group="Japan"}
+
+![Japan](images/Japan170.jpeg){group="Japan"}
+
+![Japan](images/Japan171.jpeg){group="Japan"}
+
+![Japan](images/Japan172.jpeg){group="Japan"}
+
+![Japan](images/Japan173.jpeg){group="Japan"}
+
+![Japan](images/Japan174.jpeg){group="Japan"}
+
+![Japan](images/Japan175.jpeg){group="Japan"}
+
+![Japan](images/Japan176.jpeg){group="Japan"}
+
+![Japan](images/Japan177.jpeg){group="Japan"}
+
+![Japan](images/Japan178.jpeg){group="Japan"}
+
+![Japan](images/Japan179.jpeg){group="Japan"}
+
+![Japan](images/Japan180.jpeg){group="Japan"}
+
+![Japan](images/Japan181.jpeg){group="Japan"}
+
+![Japan](images/Japan182.jpeg){group="Japan"}
+
+![Japan](images/Japan183.jpeg){group="Japan"}
+
+![Japan](images/Japan184.jpeg){group="Japan"}
+
+![Japan](images/Japan185.jpeg){group="Japan"}
+
+![Japan](images/Japan186.jpeg){group="Japan"}
+
+![Japan](images/Japan187.jpeg){group="Japan"}
+
+![Japan](images/Japan188.jpeg){group="Japan"}
+
+![Japan](images/Japan189.jpeg){group="Japan"}
+
+![Japan](images/Japan190.jpeg){group="Japan"}
+
+![Japan](images/Japan191.jpeg){group="Japan"}
+
+![Japan](images/Japan192.jpeg){group="Japan"}
+
+![Japan](images/Japan193.jpeg){group="Japan"}
+
+![Japan](images/Japan194.jpeg){group="Japan"}
+
+![Japan](images/Japan195.jpeg){group="Japan"}
+
+![Japan](images/Japan196.jpeg){group="Japan"}
+
+![Japan](images/Japan197.jpeg){group="Japan"}
+
+![Japan](images/Japan198.jpeg){group="Japan"}
+
+![Japan](images/Japan199.jpeg){group="Japan"}
+
+![Japan](images/Japan200.jpeg){group="Japan"}
+
+![Japan](images/Japan201.jpeg){group="Japan"}
+
+![Japan](images/Japan202.jpeg){group="Japan"}
+
+![Japan](images/Japan203.jpeg){group="Japan"}
+
+![Japan](images/Japan204.jpeg){group="Japan"}
+
+![Japan](images/Japan205.jpeg){group="Japan"}
+
+![Japan](images/Japan206.jpeg){group="Japan"}
+
+![Japan](images/Japan207.jpeg){group="Japan"}
+
+![Japan](images/Japan208.jpeg){group="Japan"}
+
+![Japan](images/Japan209.jpeg){group="Japan"}
+
+![Japan](images/Japan210.jpeg){group="Japan"}
+
+![Japan](images/Japan211.jpeg){group="Japan"}
+
+![Japan](images/Japan212.jpeg){group="Japan"}
+
+![Japan](images/Japan213.jpeg){group="Japan"}
+
+![Japan](images/Japan214.jpeg){group="Japan"}
+
+![Japan](images/Japan215.jpeg){group="Japan"}
+
+![Japan](images/Japan216.jpeg){group="Japan"}
+
+![Japan](images/Japan217.jpeg){group="Japan"}
+
+![Japan](images/Japan218.jpeg){group="Japan"}
+
+![Japan](images/Japan219.jpeg){group="Japan"}
+
+![Japan](images/Japan220.jpeg){group="Japan"}
+
+![Japan](images/Japan221.jpeg){group="Japan"}
+
+![Japan](images/Japan222.jpeg){group="Japan"}
+
+![Japan](images/Japan223.jpeg){group="Japan"}
+
+![Japan](images/Japan224.jpeg){group="Japan"}
+
+![Japan](images/Japan225.jpeg){group="Japan"}
+
+![Japan](images/Japan226.jpeg){group="Japan"}
+
+![Japan](images/Japan227.jpeg){group="Japan"}
+
+![Japan](images/Japan228.jpeg){group="Japan"}
+
+![Japan](images/Japan229.jpeg){group="Japan"}
+
+![Japan](images/Japan230.jpeg){group="Japan"}
+
+![Japan](images/Japan231.jpeg){group="Japan"}
+
+![Japan](images/Japan232.jpeg){group="Japan"}
+
+![Japan](images/Japan233.jpeg){group="Japan"}
+
+![Japan](images/Japan234.jpeg){group="Japan"}
+
+![Japan](images/Japan235.jpeg){group="Japan"}
+
+![Japan](images/Japan236.jpeg){group="Japan"}
+
+![Japan](images/Japan237.jpeg){group="Japan"}
+
+![Japan](images/Japan238.jpeg){group="Japan"}
+
+![Japan](images/Japan239.jpeg){group="Japan"}
+
+![Japan](images/Japan240.jpeg){group="Japan"}
+
+![Japan](images/Japan241.jpeg){group="Japan"}
+
+![Japan](images/Japan242.jpeg){group="Japan"}
+
+![Japan](images/Japan243.jpeg){group="Japan"}
+
+![Japan](images/Japan244.jpeg){group="Japan"}
+
+![Japan](images/Japan245.jpeg){group="Japan"}
+
+![Japan](images/Japan246.jpeg){group="Japan"}
+
+![Japan](images/Japan247.jpeg){group="Japan"}
+
+![Japan](images/Japan248.jpeg){group="Japan"}
+
+![Japan](images/Japan249.jpeg){group="Japan"}
+
+![Japan](images/Japan250.jpeg){group="Japan"}
+
+![Japan](images/Japan251.jpeg){group="Japan"}
+
+![Japan](images/Japan252.jpeg){group="Japan"}
+
+![Japan](images/Japan253.jpeg){group="Japan"}
+
+![Japan](images/Japan254.jpeg){group="Japan"}
+
+![Japan](images/Japan255.jpeg){group="Japan"}
+
+![Japan](images/Japan256.jpeg){group="Japan"}
+
+![Japan](images/Japan257.jpeg){group="Japan"}
+
+![Japan](images/Japan258.jpeg){group="Japan"}
+
+![Japan](images/Japan259.jpeg){group="Japan"}
+
+![Japan](images/Japan260.jpeg){group="Japan"}
+
+![Japan](images/Japan261.jpeg){group="Japan"}
+
+![Japan](images/Japan262.jpeg){group="Japan"}
+
+![Japan](images/Japan263.jpeg){group="Japan"}
+
+![Japan](images/Japan264.jpeg){group="Japan"}
+
+![Japan](images/Japan265.jpeg){group="Japan"}
+
+![Japan](images/Japan266.jpeg){group="Japan"}
+
+![Japan](images/Japan267.jpeg){group="Japan"}

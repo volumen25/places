@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # /// script
-# requires-python = ">=3.10"
+# requires-python = ">=3.14"
 # dependencies = ["pillow"]
 # ///
 from pathlib import Path
@@ -14,7 +14,7 @@ folder = Path(__file__).parent        # Script folder (one level above images/)
 base_name = "Hokkaido"                # Base name for images and markdown
 ext = ".jpeg"                         # Desired final extension (keep the dot)
 images_subfolder = folder / "images"  # Expected images folder
-output_md = folder / f"{base_name}.md"  # Markdown output file
+output = folder / f"{base_name}.txt"  # Text output file
 
 # Normalize extension
 if not ext.startswith("."):
@@ -97,13 +97,13 @@ for idx, temp in enumerate(temp_paths, start=1):
     print(f"  {temp.name} -> {final_name}")
 
 # Generate Markdown next to script, referencing images/<file>
-print(f"\nGenerating Markdown file: {output_md}")
-with open(output_md, "w", encoding="utf-8") as md:
+print(f"\nGenerating Markdown file: {output}")
+with open(output, "w", encoding="utf-8") as md:
     display_name = base_name.capitalize()
     for name in final_names:
         md.write(f'![{display_name}](images/{name}){{group="{display_name}"}}\n\n')
 
 print("\nDone! Summary:")
 print(f"  Total images processed: {len(final_names)}")
-print(f"  Markdown written to: {output_md.resolve()}")
+print(f"  Text written to: {output.resolve()}")
 print(f"  Renamed images are in: {images_subfolder.resolve()}")

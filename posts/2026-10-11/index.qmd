@@ -2,7 +2,7 @@
 title: "Japan"
 date: "2026-10-11"
 date-modified: "2026-10-25"
-image: images/Hokkaido77.jpeg
+image: images/Hokkaido030.jpeg
 lightbox:
   match: auto
   effect: zoom # fade, zoom
@@ -62,163 +62,375 @@ Our first trip to Hokkaido. Tokyo (arrival) → Sapporo/Hokkaido → Otaru → f
 
 ## Photos
 
-![Hokkaido](images/Hokkaido01.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido001.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido02.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido002.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido03.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido003.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido04.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido004.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido05.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido005.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido06.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido006.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido07.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido007.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido08.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido008.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido09.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido009.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido10.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido010.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido11.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido011.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido12.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido012.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido13.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido013.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido14.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido014.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido15.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido015.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido16.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido016.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido17.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido017.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido18.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido018.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido19.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido019.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido20.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido020.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido21.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido021.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido22.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido022.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido23.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido023.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido24.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido024.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido25.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido025.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido26.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido026.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido27.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido027.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido28.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido028.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido29.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido029.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido30.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido030.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido31.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido031.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido32.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido032.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido33.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido033.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido34.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido034.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido35.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido035.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido36.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido036.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido37.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido037.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido38.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido038.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido39.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido039.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido40.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido040.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido41.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido041.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido42.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido042.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido43.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido043.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido44.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido044.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido45.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido045.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido46.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido046.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido47.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido047.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido48.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido048.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido49.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido049.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido50.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido050.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido51.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido051.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido52.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido052.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido53.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido053.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido54.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido054.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido55.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido055.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido56.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido056.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido57.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido057.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido58.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido058.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido59.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido059.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido60.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido060.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido61.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido061.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido62.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido062.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido63.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido063.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido64.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido064.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido65.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido065.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido66.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido066.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido67.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido067.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido68.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido068.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido69.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido069.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido70.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido070.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido71.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido071.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido72.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido072.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido73.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido074.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido74.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido075.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido75.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido076.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido76.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido077.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido77.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido078.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido78.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido079.jpeg){group="Hokkaido"}
 
-![Hokkaido](images/Hokkaido79.jpeg){group="Hokkaido"}
+![Hokkaido](images/Hokkaido080.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido081.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido082.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido083.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido084.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido085.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido086.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido087.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido088.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido089.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido090.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido091.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido092.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido093.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido094.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido095.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido096.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido097.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido098.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido099.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido100.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido101.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido102.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido103.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido104.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido105.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido106.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido107.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido108.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido109.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido110.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido111.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido112.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido113.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido114.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido115.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido116.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido117.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido118.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido119.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido120.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido121.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido122.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido123.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido124.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido125.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido126.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido127.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido128.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido129.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido130.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido131.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido132.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido133.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido134.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido135.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido136.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido137.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido138.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido139.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido140.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido141.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido142.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido143.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido144.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido145.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido146.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido147.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido148.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido149.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido150.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido151.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido152.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido153.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido154.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido155.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido156.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido157.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido158.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido159.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido160.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido161.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido162.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido163.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido164.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido165.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido166.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido167.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido168.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido169.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido170.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido171.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido172.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido173.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido174.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido175.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido176.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido177.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido178.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido179.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido180.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido181.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido182.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido183.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido184.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido185.jpeg){group="Hokkaido"}
+
+![Hokkaido](images/Hokkaido186.jpeg){group="Hokkaido"}
 
 ## Keyaki
 
